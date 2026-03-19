@@ -1,8 +1,6 @@
 
   # Figma Play
 
-  This is a code bundle for Figma Play. The original project is available at https://www.figma.com/design/AohsQV8cYaJAkKXiAMUcE9/Let-s-Play-Figma--Community-.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
